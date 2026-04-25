@@ -25,7 +25,7 @@ This project is a lightweight network traffic analyzer built using **Python**, *
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/simple-network-traffic-analyzer.git
+   git clone https://github.com/hira299/simple-network-traffic-analyzer.git
    cd simple-network-traffic-analyzer
    ```
 
