@@ -1,7 +1,5 @@
 
----
-
-# Simple Network Traffic Analyzer
+# Network Traffic Analyzer
 
 This project is a lightweight network traffic analyzer built using **Python**, **Scapy**, and **Streamlit**. It allows users to capture a specified number of network packets and displays basic information like **Source IP**, **Destination IP**, and **Packet Size**.
 
@@ -25,8 +23,8 @@ This project is a lightweight network traffic analyzer built using **Python**, *
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/hira299/simple-network-traffic-analyzer.git
-   cd simple-network-traffic-analyzer
+   git clone https://github.com/hira299/network-traffic-analyzer.git
+
    ```
 
 2. Install the required dependencies:
